@@ -1,0 +1,6 @@
+- Extensions: Tiện ích mở rộng trình duyệt, một chương trình nhỏ nhằm thêm vào một tính năng nào đó cho trình duyệt.
+- umbrella project: a base repository containing a specified standard, a number of subprojects that conform to ([làm cho]phù hợp với) the standard, each project may have its own manager (referred to as the Subproject Manager).
+- vendors: someone selling something, a company or person that sell a particular product.
+- nomenclature: a system for naming things, esp. in a particular area of science (danh pháp).
+- manipulate: to change, move (information on a computer)
+- command: (computer) an instruction to computer to perform a particular action.
